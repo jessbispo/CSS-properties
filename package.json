@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessbispo/toDo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessbispo/toDo/issues"
+  },
+  "homepage": "https://github.com/jessbispo/toDo#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1",
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10",
+    "socket.io": "^4.5.1"
+  }
+}
